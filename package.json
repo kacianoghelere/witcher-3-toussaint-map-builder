@@ -1,0 +1,16 @@
+{
+  "name": "toussaint-map-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kacianoghelere",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "combine-tiles": "^2.0.1",
+    "merge-images": "^2.0.0"
+  }
+}
